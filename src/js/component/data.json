@@ -1,0 +1,26 @@
+[
+    {
+        "imgUrl": "https://cdn.pixabay.com/photo/2014/04/14/20/11/pink-324175_1280.jpg",
+        "title": "Cherry Blossom",
+        "description": "Are common species in East Asia, including China, Korea and especially in Japan."
+
+    },
+    {
+        "imgUrl": "https://cdn.pixabay.com/photo/2018/05/01/13/53/tulips-3365630_960_720.jpg",
+        "title": "Tulips",
+        "description": "Are originally from Kazakhstan. In the 16th century a part of city was conquered by the Ottoman Empire."  
+    },
+    {
+        
+        "imgUrl": "https://cdn.pixabay.com/photo/2016/07/23/23/02/lavenders-1537694_960_720.jpg",
+        "title": "Lavander",
+        "description": "Are native to the Old World and is found in Cape Verde and the Canary Islands"
+    },
+    {
+    
+        "imgUrl":"https://cdn.pixabay.com/photo/2020/06/16/18/35/nature-5306829_960_720.jpg",
+        "title": "Chrysanthemum",
+        "description": "Are native to East Asia and northeastern Europe. Most species originate from East Asia"
+    }
+
+]
